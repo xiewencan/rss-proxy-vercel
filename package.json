@@ -1,0 +1,11 @@
+{
+  "name": "rss-proxy-vercel",
+  "version": "1.0.0",
+  "description": "A simple RSS proxy using Vercel Edge Functions",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "keywords": ["rss", "proxy", "vercel"],
+  "license": "MIT"
+}
